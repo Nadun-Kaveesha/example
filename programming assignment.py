@@ -18,7 +18,7 @@ workers=0
 Aproject=0
 
 #input
-print("\nMain Menu")
+print("Main Menu")
 print("1.Add a new project to existing projects")
 print("2.Remove a completed project from existing project")
 print("3.Add new workers to available workers group")
