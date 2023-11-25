@@ -34,7 +34,7 @@ if choice==1 :
     
 #input the values
     def Add_a_new_project():
-        print("\nAdd a new project")
+        print("Add a new project")
         Project_code=int(input("Project Code :"))
         Clients_name=str(input("Client's Name :"))
         Start_date=str(input("Project Starting Date :"))
